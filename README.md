@@ -2,20 +2,21 @@
 
 🎓 B.Tech CSE (Cybersecurity & Digital Forensics)  
 🔐 Interested in Cybersecurity & Digital Forensics  
-🛠️ Building real-world security-focused projects  
+🛠️ Focused on building hands-on cybersecurity and forensic analysis tools.
 
 ---
 
 ## 🔍 Areas of Interest
-- Cybersecurity 
-- Digital Forensics & Incident Response
-- Ethical Hacking
+- Cybersecurity & Defensive Security
+- Digital Forensics & Incident Response (DFIR)
+- Ethical Hacking & Security Analysis
 
 ---
 
 ## 🧰 Tech Stack
 - Languages: Python, C, C++
 - Tools: Git, Autopsy, Wireshark (learning)
+- OS: Linux
 - Domains: Cybersecurity, Digital Forensics
 
 ---
@@ -23,7 +24,7 @@
 ## 📌 Current Focus
 - Building forensic & cybersecurity tools
 - Strengthening system-level understanding
-- Open-source contributions (starting soon)
+- Preparing for open-source contributions
 
 ---
 
