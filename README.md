@@ -1,33 +1,87 @@
-# Hi, I'm Tanmay Bhatnagar 👋
+# Tanmay Bhatnagar
 
-🎓 B.Tech CSE (Cybersecurity & Digital Forensics)  
-🔐 Interested in Cybersecurity & Digital Forensics  
-🛠️ Focused on building hands-on cybersecurity and forensic analysis tools.
+**Cybersecurity & Digital Forensics Specialist | Security Analyst | DFIR Engineer**
 
 ---
 
-## 🔍 Areas of Interest
-- Cybersecurity & Defensive Security
-- Digital Forensics & Incident Response (DFIR)
-- Ethical Hacking & Security Analysis
+## About Me
+
+B.Tech Computer Science student specializing in Cybersecurity and Digital Forensics. Passionate about building robust security solutions and conducting thorough forensic investigations. Focused on developing expertise in threat detection, incident response, vulnerability assessment, and security analytics. Committed to contributing to open-source security projects and advancing the field of digital forensics and cybersecurity engineering.
 
 ---
 
-## 🧰 Tech Stack
-- Languages: Python, C, C++
-- Tools: Git, Autopsy, Wireshark (learning)
-- OS: Linux
-- Domains: Cybersecurity, Digital Forensics
+## Technical Skills
+
+**Programming Languages**
+- Python, C++, C
+
+**Cybersecurity & Forensics**
+- Incident Response (IR)
+- Digital Forensics & Investigation (DFIR)
+- Threat Detection & Analysis
+- Vulnerability Assessment
+- Security Analysis
+- Secure Software Development
+
+**Tools & Technologies**
+- Wireshark (Network Analysis)
+- Autopsy (Digital Forensics)
+- Linux (System Administration & Security)
+- Git (Version Control)
+
+**Core Competencies**
+- Network Security
+- Security Analytics
+- Evidence Analysis & Chain of Custody
+- Investigation Workflows
+- Security-Oriented Software Architecture
 
 ---
 
-## 📌 Current Focus
-- Building forensic & cybersecurity tools
-- Strengthening system-level understanding
-- Preparing for open-source contributions
+## Featured Projects
+
+### TraceLens: Intelligent Metadata Analysis & Privacy Inspection Toolkit
+
+A comprehensive digital forensics and cybersecurity analysis platform designed for forensic investigation workflows and evidence analysis. Features analytical dashboards and security-focused investigation capabilities to assist in cybersecurity analysis and digital evidence handling. Built with a professional cybersecurity-oriented architecture that emphasizes investigation efficiency and evidence integrity.
+
+**Key Features:** Forensic investigation workflows, analytical dashboards, evidence analysis, security investigation capabilities
 
 ---
 
-## 🌐 Connect with me
-- LinkedIn : https://linkedin.com/in/tanmay-bhatnagar-vit
+### Aesora - Secure File Encryption Tool
+
+A high-performance secure file encryption utility built in C++. Focused on secure file protection and encryption workflows using cryptographic principles and secure file handling techniques. Demonstrates advanced systems programming concepts and security engineering best practices. A performance-oriented and security-focused desktop utility designed for secure data protection.
+
+**Key Technologies:** C++, Cryptography, Systems Programming, Secure File Handling
+
+---
+
+## Certifications & Learning
+
+- Pursuing B.Tech in Computer Science (Cybersecurity & Digital Forensics)
+- Actively developing expertise in:
+  - Digital Forensics & Incident Response (DFIR)
+  - Threat Detection & Analysis
+  - Vulnerability Assessment
+  - Security Analytics
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmay-Bhatnagar22&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Bhatnagar22&layout=compact&theme=dark)
+
+---
+
+## Connect With Me
+
+**Professional Links**
+- LinkedIn: [linkedin.com/in/tanmay-bhatnagar-vit](https://linkedin.com/in/tanmay-bhatnagar-vit)
+- GitHub: [github.com/Tanmay-Bhatnagar22](https://github.com/Tanmay-Bhatnagar22)
+
+---
+
+*Cybersecurity Engineer | Digital Forensics Specialist | Open Source Contributor*
 
