@@ -67,14 +67,6 @@ A high-performance secure file encryption utility built in C++. Focused on secur
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmay-Bhatnagar22&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Bhatnagar22&layout=compact&theme=dark)
-
----
-
 ## Connect With Me
 
 **Professional Links**
