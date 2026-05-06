@@ -42,7 +42,7 @@ B.Tech Computer Science student specializing in Cybersecurity and Digital Forens
 
 ### TraceLens: Intelligent Metadata Analysis & Privacy Inspection Toolkit
 
-A comprehensive digital forensics and cybersecurity analysis platform designed for forensic investigation workflows and evidence analysis. Features analytical dashboards and security-focused investigation capabilities to assist in cybersecurity analysis and digital evidence handling. Built with a professional cybersecurity-oriented architecture that emphasizes investigation efficiency and evidence integrity.
+A comprehensive desktop application for extracting, analyzing, editing, and managing file metadata with a focus on privacy and forensic risk assessment. Built with Python and Tkinter, it provides both a user-friendly GUI and a powerful command-line interface for professionals, forensic analysts, and privacy-conscious users.
 
 **Key Features:** Forensic investigation workflows, analytical dashboards, evidence analysis, security investigation capabilities
 
