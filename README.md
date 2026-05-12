@@ -40,7 +40,7 @@ B.Tech Computer Science student specializing in Cybersecurity and Digital Forens
 
 ## Featured Projects
 
-### TraceLens: Intelligent Metadata Analysis & Privacy Inspection Toolkit
+### [TraceLens: Intelligent Metadata Analysis & Privacy Inspection Toolkit](https://github.com/Tanmay-Bhatnagar22/TraceLens)
 
 A comprehensive desktop application for extracting, analyzing, editing, and managing file metadata with a focus on privacy and forensic risk assessment. Built with Python and Tkinter, it provides both a user-friendly GUI and a powerful command-line interface for professionals, forensic analysts, and privacy-conscious users.
 
@@ -48,7 +48,7 @@ A comprehensive desktop application for extracting, analyzing, editing, and mana
 
 ##
 
-### Aesora - Secure File Encryption Tool
+### [Aesora - Secure File Encryption Tool](https://github.com/Tanmay-Bhatnagar22/Aesora)
 
 A high-performance secure file encryption utility built in C++. Focused on secure file protection and encryption workflows using cryptographic principles and secure file handling techniques. Demonstrates advanced systems programming concepts and security engineering best practices. A performance-oriented and security-focused desktop utility designed for secure data protection.
 
