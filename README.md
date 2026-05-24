@@ -13,7 +13,12 @@ B.Tech Computer Science student specializing in Cybersecurity and Digital Forens
 ## Technical Skills
 
 **Programming Languages**
-- Python, C++, C
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js)](https://skillicons.dev)
+
+**Tools & Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git)](https://skillicons.dev)
 
 **Cybersecurity & Forensics**
 - Incident Response (IR)
@@ -22,12 +27,6 @@ B.Tech Computer Science student specializing in Cybersecurity and Digital Forens
 - Vulnerability Assessment
 - Security Analysis
 - Secure Software Development
-
-**Tools & Technologies**
-- Wireshark (Network Analysis)
-- Autopsy (Digital Forensics)
-- Linux (System Administration & Security)
-- Git (Version Control)
 
 **Core Competencies**
 - Network Security
