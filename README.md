@@ -14,7 +14,7 @@ B.Tech CSE student specializing in Cybersecurity and Digital Forensics. Building
 
 **Tools & Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,mysql,sqlite)](https://skillicons.dev)
 
 **Currently Exploring**
 - Digital Forensics workflows
