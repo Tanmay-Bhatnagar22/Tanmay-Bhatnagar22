@@ -44,3 +44,4 @@ B.Tech CSE student specializing in Cybersecurity and Digital Forensics. Building
 **Professional Links**
 - LinkedIn: [linkedin.com/in/tanmay-bhatnagar-vit](https://linkedin.com/in/tanmay-bhatnagar-vit)
 - GitHub: [github.com/Tanmay-Bhatnagar22](https://github.com/Tanmay-Bhatnagar22)
+- LeetCode: [https://leetcode.com/u/Tanmay-Bhatnagar/](https://leetcode.com/u/Tanmay-Bhatnagar/)
