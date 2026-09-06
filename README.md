@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanmay+Bhatnagar;CSE+Student+%7C+Cybersecurity+%26+DFIR+Enthusiast;Building+forensic+and+security+focused+tools;Open+to+Internships+%26+Collabs)
 
+<p>Cybersecurity &amp; Digital Forensics enthusiast focused on building practical security, DFIR, file analysis, and secure software tools.</p>
+
 </div>
 
 ---
@@ -96,8 +98,8 @@ Aesora is a **high-performance, command-line file encryption tool** built in C++
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bhatnagar22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Bhatnagar22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./github-stats.svg" height="165" />
+  <img src="./top-languages.svg" height="165" />
 </p>
 
 <p align="center">

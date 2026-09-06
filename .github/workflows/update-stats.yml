@@ -1,0 +1,44 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Tanmay-Bhatnagar22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true
+          path: github-stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Tanmay-Bhatnagar22&layout=compact&theme=tokyonight&hide_border=true
+          path: top-languages.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg top-languages.svg
+          git commit -m "Update GitHub statistics cards [skip ci]" || exit 0
+          git push
+

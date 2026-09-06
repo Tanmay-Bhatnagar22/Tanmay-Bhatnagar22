@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" fill="none" role="img" aria-labelledby="descId">
+  <title id="titleId">Top Languages</title>
+  <desc id="descId">Python, C++, Java, Shell</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .lang-pct { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#1a1b27" width="299" fill="#1a1b27" stroke-opacity="1"/>
+  <g transform="translate(25, 35)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header">Most Used Languages</text>
+    </g>
+  </g>
+  <g transform="translate(0, 55)">
+    <!-- Python -->
+    <g transform="translate(25, 18)">
+      <circle cx="5" cy="5" r="5" fill="#3572A5" />
+      <text x="20" y="9" class="lang-name">Python</text>
+      <text x="230" y="9" class="lang-pct" text-anchor="end">42.8%</text>
+    </g>
+    <!-- C++ -->
+    <g transform="translate(25, 46)">
+      <circle cx="5" cy="5" r="5" fill="#f34b7d" />
+      <text x="20" y="9" class="lang-name">C++</text>
+      <text x="230" y="9" class="lang-pct" text-anchor="end">28.6%</text>
+    </g>
+    <!-- Java -->
+    <g transform="translate(25, 74)">
+      <circle cx="5" cy="5" r="5" fill="#b07219" />
+      <text x="20" y="9" class="lang-name">Java</text>
+      <text x="230" y="9" class="lang-pct" text-anchor="end">14.3%</text>
+    </g>
+    <!-- Shell -->
+    <g transform="translate(25, 102)">
+      <circle cx="5" cy="5" r="5" fill="#89e051" />
+      <text x="20" y="9" class="lang-name">Shell</text>
+      <text x="230" y="9" class="lang-pct" text-anchor="end">14.3%</text>
+    </g>
+  </g>
+</svg>
+
