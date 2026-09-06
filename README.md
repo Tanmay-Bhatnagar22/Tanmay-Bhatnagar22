@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanmay+Bhatnagar;CSE+Student+%7C+Cybersecurity+%26+DFIR+Enthusiast;Building+forensic+and+security+focused+tools;Open+to+Internships+%26+Collabs)
 
-<p>Cybersecurity &amp; Digital Forensics enthusiast focused on building practical security, DFIR, file analysis, and secure software tools.</p>
-
 </div>
 
 ---
