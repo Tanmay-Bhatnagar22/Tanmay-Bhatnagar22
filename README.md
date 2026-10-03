@@ -96,12 +96,12 @@ Aesora is a **high-performance, command-line file encryption tool** built in C++
 ## GitHub Statistics
 
 <p align="center">
-  <img src="./github-stats.svg" height="165" />
-  <img src="./top-languages.svg" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Tanmay-Bhatnagar22&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanmay-Bhatnagar22&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Bhatnagar22&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="./top-languages.svg" height="170" />
 </p>
 
 ---
