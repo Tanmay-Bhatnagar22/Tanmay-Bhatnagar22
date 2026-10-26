@@ -26,7 +26,7 @@ My interests span DFIR workflows, incident response concepts, file integrity and
 
 **Tools & Technologies**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,mysql,sqlite,maven)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,mysql,sqlite,maven,aws)](https://skillicons.dev)
 
 `OpenSSL` &nbsp; `CMake`
 
